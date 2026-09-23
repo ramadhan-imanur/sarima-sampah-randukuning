@@ -69,6 +69,8 @@ Thumbs.db
 # --- Berkas Draf, Arsip, dan Catatan Internal ---
 .raw/
 arsip/
+deskripsi/
+tools/
 
 # --- Naskah Laporan LaTeX & File Build Kompilasi ---
 .naskah/

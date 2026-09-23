@@ -91,12 +91,6 @@ $$\text{Seasonal Naive (Baseline 1)} \longrightarrow \text{Holt-Winters Smoothin
 │   ├── pdrb_adhk_2021_2025.csv
 │   ├── matriks_jumlah_penduduk_2016_2026.csv
 │   └── matriks_laju_pertumbuhan_2016_2026.csv
-├── deskripsi/                         # Spesifikasi teknis & perumusan masalah
-│   ├── deskripsi_tugas.md             # Dokumen spesifikasi tugas pemodelan matematika
-│   └── rencana_riset.md               # Rencana kerja dan metodologi penelitian
-├── tools/                             # Skrip pembantu pemrosesan data & agregasi
-│   ├── proses_data_sampah_demografi.py
-│   └── generate_graph_report.py
 ├── PROGRESS.md                        # Catatan progres komponen penelitian
 ├── .gitignore                         # Filter berkas cache, rahasia, & draf lokal
 └── README.md                          # Dokumentasi utama proyek ini
