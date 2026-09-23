@@ -1,0 +1,4 @@
+Transformasi,ADF Stat,ADF p-value,ADF Kesimpulan,KPSS Stat,KPSS p-value,KPSS Kesimpulan
+Deret Asli (Level / d=0),-2.0361,0.271,Non-Stasioner,1.2014,0.01,Non-Stasioner
+First Difference (d=1),-15.0628,0.0,Stasioner,0.0676,0.1,Stasioner
+"Seasonal Difference (D=1, s=12)",-1.6494,0.4574,Non-Stasioner,0.288,0.1,Stasioner

@@ -1,0 +1,13 @@
+Statistik,Nilai
+Ukuran Sampel (N),84.0
+"Rata-rata (Mean, m³)",6514.714285714285
+"Deviasi Standar (Std, m³)",1328.0934751852385
+"Variansi (Var, m⁶)",1763832.2788296037
+Nilai Minimum (m³),3275.0
+Kuartil 1 / Q1 (m³),6109.75
+Median / Q2 (m³),6652.5
+Kuartil 3 / Q3 (m³),7144.25
+Nilai Maksimum (m³),8822.0
+"Rentang Antarkuartil (IQR, m³)",1034.5
+Kemiringan (Skewness),-0.6547697830360691
+Kurtosis Eksidental,0.2840586642389633

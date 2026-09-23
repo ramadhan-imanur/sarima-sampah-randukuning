@@ -1,0 +1,2 @@
+Model,Lag Uji (s),Ljung-Box Q-Stat,Ljung-Box p-value,Status White Noise,Jarque-Bera Stat,Jarque-Bera p-val,Skewness,Kurtosis
+"SARIMA(1, 0, 1)x(0, 0, 0, 12)",12,6.9476,0.8611,LOLOS (p > 0.05),353.0428,0.0,1.7209,11.3741

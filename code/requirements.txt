@@ -1,0 +1,22 @@
+# Dependensi Lingkungan Pemodelan Matematika Tugas 1
+# Studi Kasus: Volume Sampah Masuk TPA Randukuning Kabupaten Batang (2016-2022)
+# Program Studi S1 Matematika FMIPA Universitas Sebelas Maret (UNS)
+
+# Core Scientific & Data Processing
+pandas>=2.1.0
+numpy>=1.26.0
+scipy>=1.11.0
+
+# Time Series Modeling & Econometrics
+statsmodels>=0.14.0
+
+# Scientific Data Visualization (300 DPI)
+matplotlib>=3.8.0
+seaborn>=0.13.0
+
+# Automated Testing & Code Quality
+pytest>=7.4.0
+
+# Interactive Notebook Environment
+ipykernel>=6.25.0
+jupyter-client>=8.0.0

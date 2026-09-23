@@ -1,0 +1,4 @@
+Model,N_Obs,MAE (m³),RMSE (m³),MAPE (%),ME (m³)
+Holt-Winters Smoothing (Baseline 2),24,340.56,419.68,4.54,-163.69
+Seasonal Naive (Baseline 1),24,1233.58,1522.23,15.09,1203.17
+"SARIMA(1, 0, 1)x(0, 0, 0, 12)",24,1247.37,1463.72,15.16,1225.97

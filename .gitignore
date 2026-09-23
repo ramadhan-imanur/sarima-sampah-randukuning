@@ -1,0 +1,91 @@
+# ==============================================================================
+# Git Ignore Configuration: SARIMA Pemodelan Sampah Randukuning Batang
+# ==============================================================================
+
+# --- Python & Bytecode Cache ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# --- Pengujian & Lingkungan Virtual ---
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+.venv/
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+
+# --- Jupyter Notebook Cache ---
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# --- Variabel Lingkungan & Kredensial Rahasia ---
+.env
+.env.*
+*.key
+*.pem
+*.token
+credentials.json
+secrets/
+
+# --- Editor & Sistem Operasi ---
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*~
+*.swp
+*.swo
+
+# --- Berkas Draf, Arsip, dan Catatan Internal ---
+.raw/
+arsip/
+
+# --- Naskah Laporan LaTeX & File Build Kompilasi ---
+.naskah/
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.lof
+*.log
+*.lot
+*.out
+*.synctex.gz
+*.toc
+
+# --- Basis Data Knowledge Graph Internal AI Agent ---
+.neuron/
+
+# --- Literatur & Referensi Berhak Cipta (Mencegah Pelanggaran Hak Cipta & Repo Bloat) ---
+referensi/
