@@ -90,9 +90,8 @@ $$\text{Seasonal Naive (Baseline 1)} \longrightarrow \text{Holt-Winters Smoothin
 │   ├── pdrb_adhb_2021_2025.csv
 │   ├── pdrb_adhk_2021_2025.csv
 │   ├── matriks_jumlah_penduduk_2016_2026.csv
-│   └── matriks_laju_pertumbuhan_2016_2026.csv
-├── PROGRESS.md                        # Catatan progres komponen penelitian
-├── .gitignore                         # Filter berkas cache, rahasia, & draf lokal
+├── .gitignore                         # Filter berkas cache, rahasia, draf, & catatan lokal
+├── LICENSE                            # Lisensi terbuka MIT
 └── README.md                          # Dokumentasi utama proyek ini
 ```
 
